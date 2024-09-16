@@ -1,0 +1,5 @@
+*Bookstore Website Diamond Group Project Documentation*
+
+9/16/2024 *Github Repo was created*
+9/16/2024 Update - Database being developed (To be Uploaded)
+9/16/2024 Update - Python program has been ran to get list of books & pics
