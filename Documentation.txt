@@ -3,3 +3,6 @@
 9/16/2024 *Github Repo was created*
 9/16/2024 Update - Database being developed (To be Uploaded)
 9/16/2024 Update - Python program has been ran to get list of books & pics
+
+9/16/2024 Update - Database query has been uploaded "Milestone1.sql"
+9/16/2024 Update - Database query has been uploaded "Milestone2.sql"
