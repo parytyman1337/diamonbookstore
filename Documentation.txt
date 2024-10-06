@@ -6,3 +6,8 @@
 
 9/16/2024 Update - Database query has been uploaded "Milestone1.sql"
 9/16/2024 Update - Database query has been uploaded "Milestone2.sql"
+
+10/01/2024 Update - Loyalty Registration database uploaded to Website
+
+10/02/2024 Update - Database query has been uploaded "Milestone3security.sql"
+10/02/2024 Update - API has been uploaded to Github
