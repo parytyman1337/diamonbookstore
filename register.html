@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website - Register</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header and Navigation -->
+    <header>
+        <h1>My Website</h1>
+        <!-- Navigation Menu -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="search.html">Search</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html" class="active">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Main Content -->
+    <main>
+        <h2>Register</h2>
+        <form id="registerForm" action="#" method="post">
+            <label for="regUsername">Username:</label>
+            <input type="text" id="regUsername" name="username" required>
+
+            <label for="regEmail">Email:</label>
+            <input type="email" id="regEmail" name="email" required>
+
+            <label for="regPassword">Password:</label>
+            <input type="password" id="regPassword" name="password" required>
+
+            <label for="regConfirmPassword">Confirm Password:</label>
+            <input type="password" id="regConfirmPassword" name="confirm_password" required>
+
+            <input type="submit" value="Register">
+        </form>
+    </main>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 My Website. All rights reserved.</p>
+    </footer>
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
